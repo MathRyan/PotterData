@@ -1,0 +1,60 @@
+id,name,affiliation,alignment
+0,Harry Potter,dumbledore's army,good
+1,Hermione Granger,dumbledore's army,good
+2,Ron Weasley,dumbledore's army,good
+3,Fred Weasley,dumbledore's army,good
+4,George Weasley,dumbledore's army,good
+5,Seamus Finnigan,dumbledore's army,good
+6,Dean Thomas,dumbledore's army,good
+7,Neville Longbottom,dumbledore's army,good
+8,Cho Chang,dumbledore's army,good
+9,Lavender Brown,dumbledore's army,good
+10,Marietta Edgecombe,dumbledore's army,neutral
+11,Mundungus Fletcher,order of the phoenix,good
+12,Aberforth Dumbledore,order of the phoenix,good
+13,Albus Dumbledore,order of the phoenix,good
+14,Bill Weasley,order of the phoenix,good
+15,Frank Longbottom,order of the phoenix,good
+16,Alice Longbottom,order of the phoenix,good
+17,Arthur Weasley,order of the phoenix,good
+18,Molly Weasley,order of the phoenix,good
+19,Rubeus Hagrid,order of the phoenix,good
+20,Remus Lupin,order of the phoenix,good
+21,Minerva McGonagall,order of the phoenix,good
+22,Sirius Black,order of the phoenix,good
+23,Alastor Moody,order of the phoenix,good
+24,James Potter,order of the phoenix,good
+25,Lilly Potter,order of the phoenix,good
+26,Severus Snape,order of the phoenix,good
+27,Fleur Delacour,order of the phoenix,good
+28,Barty Crouch Jr.,death eater,bad
+29,Bellatrix Lestrange,death eater,bad
+30,Lucious Malfoy,death eater,bad
+31,Narcissa Malfoy,death eater,bad
+32,Peter Pettigrew,death eater,bad
+33,Vincent Crabbe Sr.,death eater,bad
+34,Goyle Sr.,death eater,bad
+35,Lord Voldemort,death eater,bad
+36,Vincent Crabbe Jr.,slytherin,bad
+37,Gregory Goyle,slytherin,bad
+38,Draco Malfoy,slytherin,bad
+39,Pansy Parkinson,slytherin,bad
+40,Barty Crouch Sr.,ministry of magic,neutral
+41,Dolores Umbridge,ministry of magic,bad
+42,Cornelius Fudge,ministry of magic,neutral
+43,Rufus Scrimgeour,ministry of magic,neutral
+44,Ludo Bagman,ministry of magic,neutral
+45,Pius Thicknesse,ministry of magic,bad
+46,Dudley Dursley,muggle,neutral
+47,Petunia Dursley,muggle,neutral
+48,Vernon Dursley,muggle,neutral
+49,Rita Skeeter,none,neutral
+50,Viktor Krum,none,good
+51,Fluffy,none,neutral
+52,Hedwig,none,good
+53,Aragog,none,neutral
+54,Grawp,none,neutral
+55,Olympe Maxime,none,good
+56,Regulus Black,none,neutral
+57,Cedric Diggory,none,good
+58,Igor Karkaroff,none,neutral
